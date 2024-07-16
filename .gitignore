@@ -1,0 +1,6 @@
+﻿.idea
+testproject/__pycache__
+testproject/.env
+users/__pycache__
+users/migrations
+venv
